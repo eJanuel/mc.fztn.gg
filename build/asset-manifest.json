@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c337dc05.css",
+    "main.js": "/static/js/main.d1c900a1.js",
+    "static/media/fztn.png": "/static/media/fztn.85a183b5d236f59b4c70.png",
+    "static/media/terralith_1.png": "/static/media/terralith_1.844af486774c03344420.png",
+    "static/media/incendium_1.png": "/static/media/incendium_1.dfcd50bd2d78f075d52b.png",
+    "static/media/discord.png": "/static/media/discord.523ec9e52032f6ba7b89.png",
+    "static/media/netero.svg": "/static/media/netero.f1a92f6a5902fc42e645ceae9955ae4c.svg",
+    "static/media/nullscape_3.png": "/static/media/nullscape_3.89280e62f4c95242d6b6.png",
+    "static/media/pinging.svg": "/static/media/pinging.5e3d369dee2fa3893e75ea8ba341a657.svg",
+    "static/media/ping.svg": "/static/media/ping.0e32d9326e7597478a67d2e6207ef5bf.svg",
+    "index.html": "/index.html",
+    "main.c337dc05.css.map": "/static/css/main.c337dc05.css.map",
+    "main.d1c900a1.js.map": "/static/js/main.d1c900a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c337dc05.css",
+    "static/js/main.d1c900a1.js"
+  ]
+}
